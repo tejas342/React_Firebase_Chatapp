@@ -26,7 +26,7 @@ A chat app, which was developed using React, Javascript, CSS, HTML, and FireBase
 
 1. Open the live app at the following address:
 
-   [`https://chat-app-d85d5.web.app/`](https://chat-app-d85d5.web.app/)
+   [`https://chat-app-1a54d.web.app/`](https://chat-app-1a54d.web.app/)
 
 <br/>
 
@@ -35,7 +35,7 @@ A chat app, which was developed using React, Javascript, CSS, HTML, and FireBase
 
 1. Clone the repository to your local folder of choice
    ```sh
-   git@github.com:Pierce-44/chat-app.git
+   gh repo clone tejas342/React_Firebase_Chatapp
    ```
    
    
