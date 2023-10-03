@@ -3,11 +3,8 @@
 </div>
 
 # Chat App
-A chat app, which was developed using React, Javascript, CSS, HTML, and FireBase (Cloud Firestore and hosting). This app was developed to expand my learning and understanding of Backend-as-a-Service (BaaS) and how FireBase can be used for this, it was conducted as a side project as I continued to work through the open source [Odin Project Fullstack JavaScript Courses](https://www.theodinproject.com/) <img src="https://www.theodinproject.com/assets/icons/odin-icon-b5b31c073f7417a257003166c98cc23743654715305910c068b93a3bf4d3065d.svg"  width="20" height="20">.
+A chat app, which was developed using React, Javascript, CSS, HTML, and FireBase (Cloud Firestore and hosting).
 
-![chatAppGIF](https://user-images.githubusercontent.com/96740762/180039114-c1f618d9-171a-458b-85cd-3608a5f593b8.gif)
-
-<br/>
 
 ## Built With:
 <div>
